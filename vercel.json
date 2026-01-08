@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/:path*",
-      "destination": "https://aab-web-app.vercel.app/:path*"
+      "source": "/api/:path*",
+      "destination": "https://api-dev.lucistrust.org/api/:path*"
     }
   ]
 }
