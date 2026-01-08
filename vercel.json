@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://aab-web-app.vercel.app/:path*"
+    }
+  ]
+}
